@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "driver_w25qxx_interface.h": "c",
+        "driver_w25qxx.h": "c",
+        "driver_w25qxx_register_test.h": "c",
+        "driver_w25qxx_read_test.h": "c",
+        "start_task.h": "c",
+        "freertos.h": "c",
+        "display.h": "c",
+        "lcd_init.h": "c",
+        "task.h": "c",
+        "state.h": "c",
+        "led.h": "c",
+        "usart.h": "c",
+        "system.h": "c",
+        "delay.h": "c",
+        "sys.h": "c"
+    }
+}
